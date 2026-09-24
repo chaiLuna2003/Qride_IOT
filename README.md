@@ -74,6 +74,6 @@ La plataforma se integra con un dispositivo basado en Arduino instalado en la mo
 5. **Alerta de velocidad excesiva:** notifica cuando se supera el límite configurado.
 6. **Respaldo sin señal:** guarda temporalmente los datos del trayecto y los sincroniza al recuperar la conexión.
 
-## Fechas
-1. **FECHA DE INICIO: 16 de septiembre 2026
-2. **FECHA DE TERMINO: 20 de noviembre 2026
+### Fechas
+1. **FECHA DE INICIO:** 16 de septiembre 2026
+2. **FECHA DE TERMINO:** 20 de noviembre 2026
