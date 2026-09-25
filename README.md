@@ -75,5 +75,5 @@ La plataforma se integra con un dispositivo basado en Arduino instalado en la mo
 6. **Respaldo sin señal:** guarda temporalmente los datos del trayecto y los sincroniza al recuperar la conexión.
 
 ### Fechas
-1. **FECHA DE INICIO:** 16 de septiembre 2026
+1. **FECHA DE INICIO:** 21 de septiembre 2026
 2. **FECHA DE TERMINO:** 11 Diciembre 2026
