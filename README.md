@@ -76,4 +76,4 @@ La plataforma se integra con un dispositivo basado en Arduino instalado en la mo
 
 ### Fechas
 1. **FECHA DE INICIO:** 16 de septiembre 2026
-2. **FECHA DE TERMINO:** 20 de noviembre 2026
+2. **FECHA DE TERMINO:** 11 Diciembre 2026
